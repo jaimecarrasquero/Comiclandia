@@ -1,0 +1,15 @@
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.vbproj.AssemblyReference.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.vbproj.SuggestedBindingRedirects.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Resources.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.vbproj.GenerateResource.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.vbproj.CoreCompileInputs.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.exe
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.xml
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.pdb
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.exe.config
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.exe
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.pdb
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.xml
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Cliente.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.ListaVentas.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Venta.resources

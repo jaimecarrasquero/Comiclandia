@@ -1,0 +1,73 @@
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbprojResolveAssemblyReference.cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.Cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.AssemblyReference.cache
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.cache
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.CoreCompileInputs.cache
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+C:\Jaime\Pruebas_Empresas\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.AssemblyReference.cache
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.SuggestedBindingRedirects.cache
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.cache
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.CoreCompileInputs.cache
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+D:\ALCUADRADO\DocumentosJaime\Algartech\Sistemas-de-Venta-Basico-master\Sistemas-de-Venta-Basico-master\SistemaVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.exe.config
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.exe
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.pdb
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\bin\Debug\SistemaComiclandia.xml
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaVentas.vbproj.AssemblyReference.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaVentas.vbproj.SuggestedBindingRedirects.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Formcategorias.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Formcliente.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.FormlistaVentas.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Formmenu.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Formproducto.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.FormVenta.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Login1.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.Resources.resources
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaVentas.vbproj.CoreCompileInputs.cache
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.exe
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.xml
+D:\ALCUADRADO\DocumentosJaime\Comiclandia\SistemaVentas\obj\Debug\SistemaComiclandia.pdb
